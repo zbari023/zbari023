@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there , i'am Ziad Bari 👋
 
 
-**zbari023/zbari023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projeckts
 - 🌱 I’m currently learning python
