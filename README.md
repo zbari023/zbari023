@@ -1,4 +1,4 @@
-### Hi there , i'am Ziad Bari 👋
+### Hi there , I'am Ziad Bari 👋
 
 
 
@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on projeckts
 - 🌱 I’m currently learning python
 - 💬 Ask me about Everything
+- 🔭 I’m currently medical engineering student
 
 <img src="https://img.shields.io/badge/-Bootstrap5-7952B3?logo=bootstrap5&logoColor=fff">
 
