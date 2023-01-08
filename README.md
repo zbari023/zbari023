@@ -9,8 +9,6 @@
 - 💬 Ask me about Everything
 
 
-<img src="![bootstrap-logo-shadow](https://user-images.githubusercontent.com/120318142/211216582-f8eedff4-f5cf-4831-852d-530dae5095e5.png)">
-
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
