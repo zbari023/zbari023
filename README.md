@@ -1,7 +1,7 @@
 ### Hi there , I'am Ziad Bari 👋
 
 
-- 🔭 I’m currently working on projeckts
+- 🔭 I’m currently looking for projeckts
 - 🔭 I’m currently medical engineering student
 - 🌱 I’m currently learning python
 - 💬 Ask me about Everything
