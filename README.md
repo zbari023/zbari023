@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for projeckts
 - 🔭 I’m currently medical engineering student
 - 🌱 I’m currently learning python
-- 💬 Ask me about Everythin
+- 💬 Ask me about Everything
 
 # Languages and Tools:
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
