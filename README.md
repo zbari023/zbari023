@@ -10,7 +10,7 @@
 ![ I’m currently looking for projeckts](https://nealanalytics.com/wp-content/uploads/2020/05/Solution-2-960x542.jpg)
 
 
- ###Skills: VUE JS / REACT / JS / HTML / CSS
+ 
 
 
 
