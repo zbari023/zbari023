@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ziad Bari</h1>
-- 🔭 I’m currently medical engineering student **Hochschule Koblenz**
+ <h4> - 🔭 I’m currently medical engineering student at **Hochschule Koblenz** </h4>
 
-- 🌱 I’m currently learning **python**
+ <h4> - 🌱 I’m currently learning **python** </h4>
 
-- 💬 Ask me about **Everything**
+ <h4> - 💬 Ask me about **Everything** </h4>
 
-- 📫 How to reach me **barry450643@gmail.com**
+ <h4> - 📫 How to reach me **barry450643@gmail.com** </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
