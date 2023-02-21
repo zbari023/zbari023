@@ -1,18 +1,16 @@
-   ## Hi there 👋, my name is Ziad Bari
+<h1 align="center">Hi 👋, I'm Ziad Bari</h1>
+- 🔭 I’m currently medical engineering student **Hochschule Koblenz**
 
- ### I’m currently looking for projeckts
- ### I’m currently medical engineering student
- ### I’m currently learning python
- ### Ask me about Everything
+- 🌱 I’m currently learning **python**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbari023&label=Profile%20views&color=0e75b6&style=flat" alt="zbari023" /> </p>
+- 💬 Ask me about **Everything**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbari023" alt="zbari023" /></a> </p>
+- 📫 How to reach me **barry450643@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@barry450643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@barry450643" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ziad-bari-65289a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad bari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ziad bari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad bari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
