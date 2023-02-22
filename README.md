@@ -9,6 +9,8 @@
 
  <h3> - 💬 Ask me about Everything </h3>
 
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
