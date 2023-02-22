@@ -1,18 +1,12 @@
 <h1 align="center">Hi everyone 👋, I'm Ziad Bari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zbari023&label=Profile%20views&color=0e75b6&style=flat" alt="zbari023" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbari023" alt="zbari023" /></a> </p>
-
- <h3> - 🔭 I’m currently medical engineering student at Hochschule Koblenz in Germany </h3>
-
- <h3> - 🌱 I’m currently learning python and Django </h3>
-
- <h3> - 💬 Ask me about Everything </h3>
-
 ![header_](https://user-images.githubusercontent.com/120318142/220707827-a4688b70-f9f6-41fd-a2b4-8c4c39a04292.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ziad+Bari;+Welcome+to+My+Profile!;+Junior+Quereinsteiger+Python+Django+Fullstack+Developer;Student+at+University+Koblenz+in+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Ziad+Bari;+Welcome+to+My+Profile!;+Junior+Quereinsteiger+Python+Django+Fullstack+Developer;+Medical+engineering+student+at+University+Koblenz+in+Germany)](https://git.io/typing-svg)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbari023" alt="zbari023" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
