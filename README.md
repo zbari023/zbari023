@@ -3,13 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbari023" alt="zbari023" /></a> </p>
 
- <h4> - 🔭 I’m currently medical engineering student at Hochschule Koblenz in Germany </h4>
+ <h3> - 🔭 I’m currently medical engineering student at Hochschule Koblenz in Germany </h3>
 
- <h4> - 🌱 I’m currently learning python </h4>
+ <h3> - 🌱 I’m currently learning python </h3>
 
- <h4> - 💬 Ask me about Everything </h4>
+ <h3> - 💬 Ask me about Everything </h3>
 
-- 📫 How to reach me **barry450643@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
