@@ -5,7 +5,7 @@
 
  <h3> - 🔭 I’m currently medical engineering student at Hochschule Koblenz in Germany </h3>
 
- <h3> - 🌱 I’m currently learning python </h3>
+ <h3> - 🌱 I’m currently learning python and Django </h3>
 
  <h3> - 💬 Ask me about Everything </h3>
 
