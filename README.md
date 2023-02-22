@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ziad Bari</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbari023&label=Profile%20views&color=0e75b6&style=flat" alt="zbari023" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbari023" alt="zbari023" /></a> </p>
+
  <h4> - 🔭 I’m currently medical engineering student at Hochschule Koblenz in Germany </h4>
 
  <h4> - 🌱 I’m currently learning python </h4>
