@@ -9,8 +9,10 @@
 
  <h3> - 💬 Ask me about Everything </h3>
 
-![](./src/header_.png)
+![header_](https://user-images.githubusercontent.com/120318142/220707827-a4688b70-f9f6-41fd-a2b4-8c4c39a04292.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ziad+Bari;+Welcome+to+My+Profile!;+Junior+Quereinsteiger+Python+Django+Fullstack+Developer;Student+at+University+Koblenz+in+Germany)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
