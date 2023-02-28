@@ -23,7 +23,7 @@
 
 
 
-<img src="https://nealanalytics.com/wp-content/uploads/2020/05/Solution-2-960x542.jpg" width="1200" height="600" />
+
 
 
 
