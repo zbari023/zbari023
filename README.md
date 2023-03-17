@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=ff4500&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Ziad+Bari;+Welcome+to+My+Profile!;+Junior+Berufeinsteiger+Python+Django+Fullstack+Developer;+Medical+engineering+student+at+Univeristy+Koblenz+in+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=ff4500&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Ziad+Bari;+Welcome+to+My+Profile!;+Junior+Python+Django+Fullstack+Developer;+Medical+engineering+student+at+Univeristy+Koblenz+in+Germany)](https://git.io/typing-svg)
 
 ![header_](https://user-images.githubusercontent.com/120318142/220707827-a4688b70-f9f6-41fd-a2b4-8c4c39a04292.png)
 
