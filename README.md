@@ -22,7 +22,7 @@
   ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=zbari023&show_icons=true&theme=radical&include_all_commits=true)   ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zbari023&theme=radical&layout=compact)  
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbari023"></img>
-<img src="https://nealanalytics.com/wp-content/uploads/2020/05/Solution-2-960x542.jpg" width="1200" height="600" />
+<img src="[https://nealanalytics.com/wp-content/uploads/2020/05/Solution-2-960x542.jpg](https://www.informatec.com/sites/default/files/image-seperator/machine-learning-separator-1.jpg)https://www.informatec.com/sites/default/files/image-seperator/machine-learning-separator-1.jpg" width="1200" height="600" />
 
 
 
