@@ -3,7 +3,7 @@
 ![header_](https://user-images.githubusercontent.com/120318142/220707827-a4688b70-f9f6-41fd-a2b4-8c4c39a04292.png)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbari023&label=Profile%20views&color=0e75b6&style=flat" alt="zbari023" /> </p>
+
 
 
 
