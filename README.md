@@ -26,6 +26,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbari023"></img>
 
+![Snake animation](https://github.com/zbari023/zbari023/blob/main/github-contribution-grid-snake.svg)
 
 
 
